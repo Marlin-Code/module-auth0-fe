@@ -1,0 +1,2 @@
+# Marlin Code React Frontend Module
+Welcome to Marlin! In this repo, you'll find the raw source for our react frontend module. Checkout our quickstart guide in notion: [Jumpstart your Frontend](https://www.notion.so/marlincode/Jumpstart-Your-Frontend-3788900c2f2843a29da725fbbb3d6aa1)
