@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Auth0 from './template/components/auth/Auth0';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World, From Marlin, With Love.</h1>
+      <Auth0 />
     </div>
   );
 }
