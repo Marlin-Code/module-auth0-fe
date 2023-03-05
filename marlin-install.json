@@ -2,5 +2,6 @@
 	"raw_source_code": {
 		"src/template/": "src/"
 	},
+	"project_updates": {},
 	"package_manager": "npm"
 }
